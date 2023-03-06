@@ -13,4 +13,5 @@
     In this project i have added an additional feature i.e the app continously checks for the
     INTERNET CONNECTION throughout the app in all pages.For this i used CONNECTIVITY_PLUS package
     from pub.dev.To describe more, basically if at any point of time internet connection is gone 
-    then it will give error state saying "There is no Internet Connection" also using CONNECTIVITY package app also tells the type of connection whether it is Mobile data connection or WIFI   connection.
+    then it will give error state saying "There is no Internet Connection" also using
+     CONNECTIVITY package app also tells the type of connection whether it is Mobile data connection or WIFI   connection.
